@@ -1,6 +1,7 @@
 {
   "name": "theme-theme-lily",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "view engine": "jade",
   "static": "./assets",
   "description": "a example theme module for Theme, the module theme loader",
   "main": "index.js",
