@@ -1,0 +1,25 @@
+{
+  "name": "theme-theme-lily",
+  "version": "0.1.0",
+  "static": "./assets",
+  "description": "a example theme module for Theme, the module theme loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:turingou/theme-theme-lily.git"
+  },
+  "keywords": [
+    "theme",
+    "lily",
+    "themes"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/theme-theme-lily/issues"
+  },
+  "homepage": "https://github.com/turingou/theme-theme-lily"
+}
